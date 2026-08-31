@@ -93,3 +93,9 @@ O notebook do projeto está dividido nas seguintes etapas encadeadas:
 3. **Redução nos Fins de Semana:** A carga global média aos sábados e domingos apresenta uma redução estimada de **15% a 25%** em comparação aos dias úteis, refletindo a desaceleração da produção industrial e comercial.
 
 ---
+
+Integrantes:
+Guilherme Lopes Muniz RM: 569521
+Gustavo Russo Balizardo RM: 569283
+Fernando Lembo RM: 570228
+Ryan Barreto RM: 574126
