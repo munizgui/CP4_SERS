@@ -94,6 +94,25 @@ O notebook do projeto está dividido nas seguintes etapas encadeadas:
 
 ---
 
+## Fontes de Dados e Referências
+Fonte Principal de Dados: Operador Nacional do Sistema Elétrico (ONS) — Portal de Dados Abertos
+
+Portal de Dados Abertos: https://dados.ons.org.br/
+
+Conjunto de Dados de Carga Verificada: https://dados.ons.org.br/dataset/carga-energia-verificada
+
+Endpoint API RESTful Utilizado: https://apicarga.ons.org.br/prd/cargaverificada
+
+Documentação das Bibliotecas:
+
+Pandas Documentation
+
+Matplotlib Documentation
+
+Requests API Documentation
+
+---
+
 Integrantes:
 Guilherme Lopes Muniz RM: 569521
 Gustavo Russo Balizardo RM: 569283
